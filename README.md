@@ -1,7 +1,7 @@
 # GBM
 
 
-Schaltplan und Foto eine Gleisbesetztmelders 
+Schaltplan und Foto eines Gleisbesetztmelders 
 
 16 Eingänge
 WIFI 
