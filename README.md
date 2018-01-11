@@ -1,8 +1,10 @@
 # GBM
 
 
-Schaltplan und Foto eines Gleisbesetztmelders 
+Schaltplan und Foto eines Gleisbesetztmelders mittels Kontaktgleis/HallSensor/Reedsensor oder simpler Taster...
 
-16 Eing�nge
+simpler Schießkontakt. Bahnstrom GND zum Eingang.
+
+16 Eingänge
 WIFI 
 RocRail Schnittstelle
